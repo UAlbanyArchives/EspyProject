@@ -34,7 +34,7 @@
 * Workflow testing
 * Time trials
 
-##### Repository Development
+##### [Repository Development](development.md)
 
 * Rails experimentation, ramp up plan
 * Set up Hydra dev server
