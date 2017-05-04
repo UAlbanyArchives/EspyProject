@@ -7,6 +7,10 @@
 * Greg Wiedeman
 * Mark Wolfe
 
+#### Meetings
+
+[Meeting 05-04-17](metadata_05-04-17.md)
+
 #### Rough timeline for self-assessment
 
 * 2017 March 29
